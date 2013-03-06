@@ -1,4 +1,4 @@
-Image-Scaler
+Polygon methods
 ============
 
-Scales a polygon according to an input multiplier.
+Different programs for modifying and collecting data about polygons in python.
